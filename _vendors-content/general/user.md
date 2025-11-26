@@ -1,4 +1,4 @@
----
+infinixsmart7---
 manufacturer:
     - general
 ---
